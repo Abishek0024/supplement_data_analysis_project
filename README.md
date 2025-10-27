@@ -57,7 +57,7 @@ To provide business analysts, product managers, and retail decision-makers with 
 
 ## 🚀 How to Use
 1. Download or clone the repository.
-2. Open the `` file in **Power BI Desktop**.
+2. Open the [``](https://github.com/Abishek0024/supplement_data_analysis_project/blob/main/supplement%20data%20analysis%20project.pbix) file in **Power BI Desktop**.
 3. Interact using filters to explore trends by platform, region, and product.
 
 ---
