@@ -51,8 +51,8 @@ To provide business analysts, product managers, and retail decision-makers with 
 ---
 
 ## 🖼 Dashboard Preview
-*(Insert your snapshot here)*
 
+--https://github.com/Abishek0024/supplement_data_analysis_project/blob/main/Screenshot%202025-10-27%20141605.png
 ---
 
 ## 🚀 How to Use
